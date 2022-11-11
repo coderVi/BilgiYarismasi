@@ -1,0 +1,15 @@
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\bin\Debug\net6.0\bilgiYarismasi.exe
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\bin\Debug\net6.0\bilgiYarismasi.deps.json
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\bin\Debug\net6.0\bilgiYarismasi.runtimeconfig.json
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\bin\Debug\net6.0\bilgiYarismasi.dll
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\bin\Debug\net6.0\bilgiYarismasi.pdb
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.AssemblyInfoInputs.cache
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.AssemblyInfo.cs
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.dll
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\refint\bilgiYarismasi.dll
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.pdb
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\bilgiYarismasi.genruntimeconfig.cache
+C:\Users\mrasm\source\repos\bilgiYarismasi\bilgiYarismasi\obj\Debug\net6.0\ref\bilgiYarismasi.dll
